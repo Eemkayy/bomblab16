@@ -4,7 +4,7 @@ This are the files I was provided for my Bomb Lab for the Computer Architecture 
 The way I tackled the bomb was:
 
 Phases 1-7:
-Tackle the pushes added towards the near/end before the final comparisons and whatnot. Usually, those pushed items are the answers that are being compared.
+Tackle the pushes and compares added towards the near/end before the final comparisons and whatnot. Usually, those pushed items are the answers that are being compared.
 If it's a string, check that both strings (parsed in argument and the desired argument) are the same.
 
 Phases 8-9:
