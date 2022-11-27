@@ -1,5 +1,5 @@
 # bomblab16
-This are the files I was provided for my Bomb Lab for the Computer Architecture course at Rutgers University-New Brunswick (01:198:211)
+These are the files I was provided for my Bomb Lab for the Computer Architecture course at Rutgers University-New Brunswick (01:198:211). This was the third assignment in the course.
 
 The way I tackled the bomb was:
 
